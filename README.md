@@ -12,6 +12,10 @@
 
 // OTHER MODS
 1) Indium: https://modrinth.com/mod/indium/versions#all-versions
-2) Continuity: https://modrinth.com/mod/continuity/versions#all-versions
-3) Camera Utils: https://www.curseforge.com/minecraft/mc-mods/camera-utils/files
-4) Zoomify zoom mod: https://modrinth.com/mod/zoomify
+2) Lithium: https://modrinth.com/mod/lithium
+3) Continuity: https://modrinth.com/mod/continuity/versions#all-versions
+4) Camera Utils: https://www.curseforge.com/minecraft/mc-mods/camera-utils/files
+5) Zoomify zoom mod: https://modrinth.com/mod/zoomify
+6) Lazy DFU: https://www.curseforge.com/minecraft/mc-mods/lazydfu
+7) Smoke Supression: https://www.curseforge.com/minecraft/mc-mods/smoke-suppression
+8) Ferritecore RAM Optimisation: https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
